@@ -1,0 +1,72 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+#container {
+    width: 1000px;
+    background-color: #00D96D;
+}
+
+#header {
+    width: 1000px;
+    height: 130px;
+}
+
+#login {
+    height: 100px;
+    width: 250px;
+    float: right;
+}
+
+#tool {
+    background-color: red;
+    float: left;
+    width: 1000px;
+    height: 25px;
+}
+
+    #tool ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        text-align: center;
+    }
+
+    #tool li {
+        display: inline;
+        padding-left: 20px;
+    }
+
+        #tool li a {
+            color: white;
+            text-decoration: none;
+        }
+
+#movie{
+	width:1000px;
+	height:375px;
+}
+
+#moviePhoto{
+	width:250px;
+	height:375px;
+	float:left;
+}
+
+#movieDetail{
+	height:375px;
+	width:500px;
+	float:left;
+}
+
+#advertisement{
+	height:375px;	
+	width:250px;
+	float:left;
+}
+
+#content{
+	height:350px;
+}

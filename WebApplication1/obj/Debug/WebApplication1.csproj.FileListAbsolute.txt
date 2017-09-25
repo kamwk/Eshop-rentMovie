@@ -1,0 +1,15 @@
+C:\Users\30215635\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\30215635\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\30215635\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\30215635\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\30215635\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\30215522\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\30215522\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\30215522\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\30215522\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\30215522\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\30215522\Downloads\diu\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\30215522\Downloads\diu\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\30215522\Downloads\diu\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\30215522\Downloads\diu\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\30215522\Downloads\diu\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

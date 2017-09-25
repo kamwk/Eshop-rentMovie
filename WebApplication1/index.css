@@ -1,0 +1,68 @@
+﻿@charset "UTF-8";
+/* CSS Document */
+
+#container {
+    width: 1000px;
+    background-color: #00D96D;
+}
+
+#header {
+    width: 1000px;
+    height: 130px;
+}
+
+#header h1{
+    float: right;
+}
+
+#login {
+    height: 100px;
+    width: 250px;
+    float: right;
+}
+
+
+#tool {
+    background-color: red;
+    float: left;
+    width: 1000px;
+    height: 25px;
+}
+
+    #tool ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        text-align: center;
+    }
+
+    #tool li {
+        display: inline;
+        padding-left: 20px;
+    }
+
+        #tool li a {
+            color: white;
+            text-decoration: none;
+        }
+
+#banner {
+    float: left;
+    height: 175px;
+}
+
+#movie {
+    background-color: #1be0e6;
+    width: 1000px;
+    height: 500px;
+}
+
+
+#topMovie {
+    height: 200px;
+    width: 150px;
+}
+
+#content {
+    height: 350px;
+}
